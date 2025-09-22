@@ -5,9 +5,6 @@ use rand::Rng;
 fn main() {
     println!("Guess the number!");
 
-    
-
-
     loop{
         println!("Please input your guess.");
 
